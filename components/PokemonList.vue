@@ -1,9 +1,12 @@
 <template>
-  <div>
-    <index />
-  </div>
+
 </template>
 
 <script setup>
+<PokemonApi />
 
 </script>
+
+<style>
+
+</style>
