@@ -1,6 +1,8 @@
 <template>
   <div>
-    <index />
+    <PokemonSearch />
+    <PokemonApi />
+    <PokemonList />
   </div>
 </template>
 

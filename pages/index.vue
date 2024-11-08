@@ -1,9 +1,9 @@
 <template>
     <div>
         <PokemonApi />
-        <PokemonFav/>
+<!--         <PokemonFav/> -->
         <PokemonList />
-        <PokemonSearch />
+<!--         <PokemonSearch /> -->
     </div>
 </template>
 
